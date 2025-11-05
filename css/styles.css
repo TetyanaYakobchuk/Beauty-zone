@@ -168,8 +168,9 @@ p {
 }
 
 .header-social-icon {
-    width: 32;
-    height: 32;
+    width: 32px;
+    height: 32px;
+    fill: var(--color-primary-dark);
 }
 
 
